@@ -1,0 +1,26 @@
+{
+	"token": "INSERT USER TOKEN HERE",
+	"accID": "INSERT USER ID HERE",
+
+	"autoBeg": "enabled",
+	"autoCandy": "disabled",
+	"autoBankNote": "disabled",
+
+	"autoFish": "enabled",
+	"autoSellFish": "disabled",
+
+	"autoHunt": "enabled",
+	"autoSellDeer": "disabled",
+	"autoSellBoar": "disabled",
+	"autoSellDuck": "disabled",
+	"autoSellRabbit": "disabled",
+	"autoSellSkunk": "disabled",
+
+	"autoDaily": "disable",
+	"autoDepositAll": "enabled",
+
+
+	"autoBetHalf": "disabled",
+	"autoBetHelfIntervalMilliseconds": "1800000"
+	
+}

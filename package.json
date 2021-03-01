@@ -1,0 +1,17 @@
+{
+  "name": "cumster9000dankmemertool",
+  "version": "1.0.0",
+  "description": "The Cumster 9000 Dank Memer tool",
+  "main": "index.js",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "discord.js": "^11.6.1",
+    "node-bash-title": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "littleCummy",
+  "license": "ISC"
+}
