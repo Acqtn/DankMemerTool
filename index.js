@@ -40,7 +40,7 @@ client.on("ready", async () =>{
     
 
     console.log(clc.blueBright('Type $startdankgen in any server to begin generating!'));
-    console.log('Developed by zJackkDev on YouTube')
+    console.log(';+discord.gg/Mr5QH7VXRT+;');
     
 })
 
