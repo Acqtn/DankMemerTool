@@ -5,6 +5,6 @@ Step 1. Insert User Token and ID into the congfig.json file.
 
 Step 2. Change the enabled features, the default ones are the safest and most important commands, enabling more than what's default can increase chances of being blacklisted from Dank Memer.
 
-Step 3. To run the bot, open the zJackk's Dank Memer Tool folder in CMD and type "node ."
+Step 3. To run the bot, open up CMD and type "node ."
 
-Step 4. Type $startdankgen into any server with dankmemer, it is better to do this in a private server to reduce chances of being reported.
+Step 4. Type $startdankgrind into any server with dankmemer, it is better to do this in a private server to reduce chances of being reported. (Premuim servers are also good)
